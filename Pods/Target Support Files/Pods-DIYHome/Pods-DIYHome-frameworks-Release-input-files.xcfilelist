@@ -1,0 +1,19 @@
+${PODS_ROOT}/Target Support Files/Pods-DIYHome/Pods-DIYHome-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatedField/AnimatedField.framework
+${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework
+${BUILT_PRODUCTS_DIR}/AssetsPickerViewController/AssetsPickerViewController.framework
+${BUILT_PRODUCTS_DIR}/BEMCheckBox/BEMCheckBox.framework
+${BUILT_PRODUCTS_DIR}/Device/Device.framework
+${BUILT_PRODUCTS_DIR}/FCAlertView/FCAlertView.framework
+${BUILT_PRODUCTS_DIR}/FaveButton/FaveButton.framework
+${BUILT_PRODUCTS_DIR}/GTMAppAuth/GTMAppAuth.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MDatePickerView/MDatePickerView.framework
+${BUILT_PRODUCTS_DIR}/OpalImagePicker/OpalImagePicker.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SSCustomTabbar/SSCustomTabbar.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/TAPageControl/TAPageControl.framework
+${BUILT_PRODUCTS_DIR}/skpsmtpmessage/skpsmtpmessage.framework

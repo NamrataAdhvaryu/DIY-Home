@@ -1,0 +1,100 @@
+PODS:
+  - AnimatedField (2.4.4)
+  - AppAuth (1.4.0):
+    - AppAuth/Core (= 1.4.0)
+    - AppAuth/ExternalUserAgent (= 1.4.0)
+  - AppAuth/Core (1.4.0)
+  - AppAuth/ExternalUserAgent (1.4.0)
+  - AssetsPickerViewController (2.7.7):
+    - Device
+    - SnapKit
+  - BEMCheckBox (1.4.1)
+  - Device (3.2.1)
+  - FaveButton (3.2.1)
+  - FCAlertView (1.4.0)
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GTMAppAuth (1.0.0):
+    - AppAuth/Core (~> 1.0)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.4.0):
+    - GTMSessionFetcher/Full (= 1.4.0)
+  - GTMSessionFetcher/Core (1.4.0)
+  - GTMSessionFetcher/Full (1.4.0):
+    - GTMSessionFetcher/Core (= 1.4.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MBProgressHUD (1.2.0)
+  - MDatePickerView (1.2.3)
+  - OpalImagePicker (3.0.0)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+  - skpsmtpmessage (0.0.1)
+  - SnapKit (5.0.1)
+  - SSCustomTabbar (2.0.6)
+  - TAPageControl (0.2.0)
+
+DEPENDENCIES:
+  - AnimatedField
+  - AssetsPickerViewController
+  - BEMCheckBox
+  - FaveButton
+  - FCAlertView
+  - GoogleSignIn
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - MDatePickerView
+  - OpalImagePicker
+  - SDWebImage
+  - skpsmtpmessage
+  - SSCustomTabbar
+  - TAPageControl
+
+SPEC REPOS:
+  trunk:
+    - AnimatedField
+    - AppAuth
+    - AssetsPickerViewController
+    - BEMCheckBox
+    - Device
+    - FaveButton
+    - FCAlertView
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - MDatePickerView
+    - OpalImagePicker
+    - SDWebImage
+    - skpsmtpmessage
+    - SnapKit
+    - SSCustomTabbar
+    - TAPageControl
+
+SPEC CHECKSUMS:
+  AnimatedField: af48a2d59a50b33b30446267f7f2af274296203c
+  AppAuth: 31bcec809a638d7bd2f86ea8a52bd45f6e81e7c7
+  AssetsPickerViewController: 77dd85c52c60b9e2c155b11ea47aa899f1786fc5
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Device: 0738862dd8a30856b4bd9e21cb9b728873d21392
+  FaveButton: 93cfebf6030336fa7653fad2068c3152ed668b39
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GTMAppAuth: 4deac854479704f348309e7b66189e604cf5e01e
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MDatePickerView: e26233885de2f13659c6101b3ed265eacf92c078
+  OpalImagePicker: 38e772dd93a54431fc516b33e1f337c50f745834
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+  skpsmtpmessage: f6e913380c784dd8d4a9f83c8790a302445a5e05
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SSCustomTabbar: a52533e429bd40f52ce8d7ecb801f3521fbd56a0
+  TAPageControl: fd11d779bbb5c2464ca2f55dde9e288213ea8a9b
+
+PODFILE CHECKSUM: 2ad9969afb07668841157be596db4e844f920f77
+
+COCOAPODS: 1.9.3

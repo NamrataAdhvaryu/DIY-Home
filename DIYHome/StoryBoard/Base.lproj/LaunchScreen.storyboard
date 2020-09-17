@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="J6a-2A-aqs">
+                                <rect key="frame" x="20" y="353" width="374" height="200"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DIY" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XYt-9n-0H8">
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="117"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="117" id="v7q-P7-a0N"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="PartyLetPlain" family="Party LET" pointSize="100"/>
+                                        <color key="textColor" red="0.74901960779999999" green="0.37254901959999998" blue="0.50980392159999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Home" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BQU-q9-4t1">
+                                        <rect key="frame" x="0.0" y="84" width="374" height="75"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="75" id="BIF-14-ktN"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Georgia-Bold" family="Georgia" pointSize="62"/>
+                                        <color key="textColor" red="0.74901960779999999" green="0.37254901959999998" blue="0.50980392159999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="Fed-bD-rdE"/>
+                                    <constraint firstAttribute="trailing" secondItem="XYt-9n-0H8" secondAttribute="trailing" id="GAR-bV-KFs"/>
+                                    <constraint firstItem="BQU-q9-4t1" firstAttribute="leading" secondItem="J6a-2A-aqs" secondAttribute="leading" id="TyB-I0-uPo"/>
+                                    <constraint firstAttribute="trailing" secondItem="BQU-q9-4t1" secondAttribute="trailing" id="fq1-iQ-TBo"/>
+                                    <constraint firstItem="XYt-9n-0H8" firstAttribute="top" secondItem="J6a-2A-aqs" secondAttribute="top" id="kcg-CR-oMw"/>
+                                    <constraint firstItem="BQU-q9-4t1" firstAttribute="top" secondItem="J6a-2A-aqs" secondAttribute="top" constant="84" id="pmD-8r-NYT"/>
+                                    <constraint firstItem="XYt-9n-0H8" firstAttribute="leading" secondItem="J6a-2A-aqs" secondAttribute="leading" id="qvg-5L-mW9"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.6705882352941176" blue="0.76862745098039209" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="J6a-2A-aqs" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="9EZ-ZC-IlL"/>
+                            <constraint firstItem="J6a-2A-aqs" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="P5L-t0-UCQ"/>
+                            <constraint firstItem="J6a-2A-aqs" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="lbW-lH-13f"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="J6a-2A-aqs" secondAttribute="trailing" constant="20" id="y2k-SP-oYg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="50.625" y="375"/>
+        </scene>
+    </scenes>
+</document>
