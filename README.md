@@ -19,3 +19,15 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 
 <img width="359" alt="Screenshot 2021-02-24 at 1 55 04 AM" src="https://user-images.githubusercontent.com/70209068/109051415-83a2cd00-76a8-11eb-925a-ec67a92a90b7.png">
+
+
+*User can login or create a new profile.
+
+<img width="355" alt="Screenshot 2021-02-24 at 1 03 17 AM" src="https://user-images.githubusercontent.com/70209068/109051683-bfd62d80-76a8-11eb-90a2-de1a85615509.png">
+
+*User needs to provide a new email address in order to signup, else the application will not create new user and will show a toast message to user.
+
+<img width="355" alt="Screenshot 2021-02-24 at 1 03 17 AM" src="https://user-images.githubusercontent.com/70209068/109051683-bfd62d80-76a8-11eb-90a2-de1a85615509.png">
+
+*When the user is logged in,direct to its home page.
+
