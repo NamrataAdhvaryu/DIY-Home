@@ -53,3 +53,9 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 <img width="355" alt="Screenshot 2021-02-24 at 1 07 16 AM" src="https://user-images.githubusercontent.com/70209068/109053453-b51c9800-76aa-11eb-8f0a-2e3e6bf1feca.png">
 
+# Contact
+
+*Namrata Adhvaryu
+namrata.adhvaryu05@gmail.com
+Project link:
+https://github.com/NamrataAdhvaryu/DIY-Home
