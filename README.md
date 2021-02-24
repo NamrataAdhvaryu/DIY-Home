@@ -30,4 +30,10 @@ Best out of waste ideas come to mind every time one sees something that has been
 <img width="355" alt="Screenshot 2021-02-24 at 1 03 17 AM" src="https://user-images.githubusercontent.com/70209068/109051683-bfd62d80-76a8-11eb-90a2-de1a85615509.png">
 
 *When the user is logged in,direct to its home page.
+<img width="356" alt="Screenshot 2021-02-24 at 1 04 29 AM" src="https://user-images.githubusercontent.com/70209068/109052310-763a1280-76a9-11eb-89b0-6868b5f9a535.png">
+
+*user can edit or view their profile
+
+
+<img width="355" alt="Screenshot 2021-02-24 at 1 06 08 AM" src="https://user-images.githubusercontent.com/70209068/109052324-79cd9980-76a9-11eb-9b0e-77a2a35f1f6a.png">
 
