@@ -16,4 +16,6 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 # screenshoots
 *Splash Screenwhen user launches the application
+
+
 <img width="359" alt="Screenshot 2021-02-24 at 1 55 04 AM" src="https://user-images.githubusercontent.com/70209068/109051415-83a2cd00-76a8-11eb-925a-ec67a92a90b7.png">
