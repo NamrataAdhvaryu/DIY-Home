@@ -15,10 +15,5 @@ Best out of waste ideas come to mind every time one sees something that has been
 * Best App for kids to learn news things.
 
 # screenshoots
-![Uploading Screenshot 2021-02-24 at 1.04.29 AM.png…]()
-<img width="353" alt="Screenshot 2021-02-24 at 1 05 05 AM" src="https://user-images.githubusercontent.com/70209068/109050526-7cc78a80-76a7-11eb-8ac5-c0d35c67fd50.png">
-![Uploading Screenshot 2021-02-24 at 1.06.08 AM.png…]()
-![Uploading Screenshot 2021-02-24 at 1.06.15 AM.png…]()
-![Uploading Screenshot 2021-02-24 at 1.06.38 AM.png…]()
-![Uploading Screenshot 2021-02-24 at 1.06.47 AM.png…]()
-![Uploading Screenshot 2021-02-24 at 1.07.16 AM.png…]()
+*Splash Screenwhen user launches the application
+<img width="359" alt="Screenshot 2021-02-24 at 1 55 04 AM" src="https://user-images.githubusercontent.com/70209068/109051415-83a2cd00-76a8-11eb-925a-ec67a92a90b7.png">
