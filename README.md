@@ -57,5 +57,6 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 *Namrata Adhvaryu
 namrata.adhvaryu05@gmail.com
-Project link:
+
+*Project link:
 https://github.com/NamrataAdhvaryu/DIY-Home
