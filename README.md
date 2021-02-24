@@ -27,8 +27,7 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 *User needs to provide a new email address in order to signup, else the application will not create new user and will show a toast message to user.
 
-
-<img width="356" alt="Screenshot 2021-02-24 at 1 04 29 AM" src="https://user-images.githubusercontent.com/70209068/109052310-763a1280-76a9-11eb-89b0-6868b5f9a535.png">
+<img width="345" alt="Screenshot 2021-02-24 at 1 55 18 AM" src="https://user-images.githubusercontent.com/70209068/109052918-2a3b9d80-76aa-11eb-8d89-fbee2213d73d.png">
 
 
 *When the user is logged in,direct to its home page.
@@ -42,3 +41,7 @@ Best out of waste ideas come to mind every time one sees something that has been
 
 <img width="355" alt="Screenshot 2021-02-24 at 1 06 08 AM" src="https://user-images.githubusercontent.com/70209068/109052324-79cd9980-76a9-11eb-9b0e-77a2a35f1f6a.png">
 
+*user can sign out,tell their friend and rate the application on App store.
+<img width="353" alt="Screenshot 2021-02-24 at 1 06 15 AM" src="https://user-images.githubusercontent.com/70209068/109052938-2f005180-76aa-11eb-9b1a-359e0dbb9650.png">
+<img width="352" alt="Screenshot 2021-02-24 at 1 06 38 AM" src="https://user-images.githubusercontent.com/70209068/109052950-31fb4200-76aa-11eb-98df-24f5290591c7.png">
+<img width="352" alt="Screenshot 2021-02-24 at 1 06 38 AM" src="https://user-images.githubusercontent.com/70209068/109052957-34f63280-76aa-11eb-81e4-34cba1110c42.png">
