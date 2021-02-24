@@ -42,6 +42,14 @@ Best out of waste ideas come to mind every time one sees something that has been
 <img width="355" alt="Screenshot 2021-02-24 at 1 06 08 AM" src="https://user-images.githubusercontent.com/70209068/109052324-79cd9980-76a9-11eb-9b0e-77a2a35f1f6a.png">
 
 *user can sign out,tell their friend and rate the application on App store.
+
+
 <img width="353" alt="Screenshot 2021-02-24 at 1 06 15 AM" src="https://user-images.githubusercontent.com/70209068/109052938-2f005180-76aa-11eb-9b1a-359e0dbb9650.png">
 <img width="352" alt="Screenshot 2021-02-24 at 1 06 38 AM" src="https://user-images.githubusercontent.com/70209068/109052950-31fb4200-76aa-11eb-98df-24f5290591c7.png">
-<img width="352" alt="Screenshot 2021-02-24 at 1 06 38 AM" src="https://user-images.githubusercontent.com/70209068/109052957-34f63280-76aa-11eb-81e4-34cba1110c42.png">
+<img width="351" alt="Screenshot 2021-02-24 at 1 06 47 AM" src="https://user-images.githubusercontent.com/70209068/109053449-b352d480-76aa-11eb-836e-d2f6fe13110f.png">
+
+*user can add new post and video as well as Discription
+
+
+<img width="355" alt="Screenshot 2021-02-24 at 1 07 16 AM" src="https://user-images.githubusercontent.com/70209068/109053453-b51c9800-76aa-11eb-8f0a-2e3e6bf1feca.png">
+
